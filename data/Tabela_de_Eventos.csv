@@ -1,0 +1,11 @@
+id;cliente_id;data_hora;canal;campanha;tipo_evento;custo;impressoes;cliques;visualizacoes;nova_conversao;receita_gerada
+;1;25/06/2025 10:00;Instagram;SkinCareVerão;compra;60.0;3000;250;0;1;320.0
+;2;25/06/2025 11:00;YouTube;LançamentoHidratante;compra;80.0;4000;300;800;1;450.0
+;3;26/06/2025 09:30;Google Ads;PromoLabial;compra;100.0;3500;280;0;1;390.0
+;4;26/06/2025 14:00;E-mail;LinhaVerde;compra;45.0;1200;90;0;1;200.0
+;5;27/06/2025 16:00;Instagram;MakeExpress;compra;75.0;2800;220;0;1;350.0
+;6;28/06/2025 13:00;WhatsApp;ComboVerão;compra;35.0;900;60;0;1;160.0
+;7;28/06/2025 18:00;YouTube;EspecialSérum;compra;85.0;4100;310;700;1;420.0
+;9;29/06/2025 15:30;E-mail;PeleRadiante;compra;40.0;1300;100;0;1;210.0
+;8;29/06/2025 10:00;Google Ads;BlackBeauty;compra;110.0;3700;270;0;1;480.0
+;0;30/06/2025 11:00;Instagram;KitAromas;compra;65.0;2600;200;0;1;310.0

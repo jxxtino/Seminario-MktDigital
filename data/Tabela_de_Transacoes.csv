@@ -1,0 +1,11 @@
+id;cliente;data_hora;produtos;valor_total;quantidade;categoria
+;João;25/06/2025 10:15;Kit SkinCare (Sabonete + Tônico + Hidratante);320.0;3;Cuidados com a pele
+;Maria;25/06/2025 11:30;Hidratante Corporal Lavanda 300ml;450.0;5;Hidratantes
+;Carlos;26/06/2025 09:45;Gloss Labial Nude + Batom Mate Rosa;390.0;4;Maquiagem
+;Ana;26/06/2025 14:20;Kit Linha Verde (Shampoo + Condicionador + Máscara);200.0;3;Cabelos
+;Fernanda;27/06/2025 16:10;Base Líquida + Corretivo + Pó Compacto;350.0;3;Maquiagem
+;Lucas;28/06/2025 13:25;Kit Verão (Protetor solar + Pós-sol);160.0;2;Protetores
+;Juliana;28/06/2025 18:10;Sérum Vitamina C + Gel de Limpeza;420.0;3;Tratamentos faciais
+;Paulo;29/06/2025 10:40;Perfume BlackBeauty 100ml;480.0;2;Perfumaria
+;Renata;29/06/2025 15:45;Iluminador Facial + Blush Cremoso;210.0;2;Maquiagem
+;Bruno;30/06/2025 11:20;Kit Aromas (Difusor + Sabonetes);310.0;3;Bem-estar
